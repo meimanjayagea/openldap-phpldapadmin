@@ -76,7 +76,7 @@ osixia/phpldapadmin:latest
 Clone projek 
 
 ```bash
-  
+  https://github.com/meimanjayagea/openldap-phpldapadmin.git
 ```
 
 pergi ke direktori projek
