@@ -110,7 +110,7 @@ buka pada browser http://localhost:80/ atau sesuaikan dengan konfigurasi anda co
 catatan :
 username dan password di dapat dari konfigurasi pada docker-compose.yml
 
-### Contoh konfigurasi file :
+### Contoh konfigurasi file docker-compose.yml:
 ``` 
 version: '3.7'
 services:
