@@ -105,7 +105,7 @@ buka pada browser http://localhost:80/ atau sesuaikan dengan konfigurasi anda co
 **username :** cn=admin,dc=meiman,dc=com
 
 
-![Logo]()
+<img width="1436" alt="Image" src="https://github.com/user-attachments/assets/a90e2665-09fe-4976-b4eb-17e786bd63c6" />
 
 catatan :
 username dan password di dapat dari konfigurasi pada docker-compose.yml
